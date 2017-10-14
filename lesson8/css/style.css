@@ -1,0 +1,10 @@
+.section {
+	text-align: center;
+}
+.section p {
+	margin-top: 10px;
+}
+.section img {
+	width: 120px;
+	height: 134px;
+}

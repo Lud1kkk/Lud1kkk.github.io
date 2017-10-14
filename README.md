@@ -5,4 +5,7 @@
 [Урок 12](https://lud1kkk.github.io "Моя готовая домашка")-Работа с репозиторием на GitHub
 
 
-[Урок 11](C:\Users\Maks\Desktop\NewProject\lesson11 "Урок по сниппетам")-Создание сниппетов
+[Урок 11](https://lud1kkk.github.io "Урок по сниппетам")-Создание сниппетов
+
+
+[Урок 10](https://lud1kkk.github.io "Препроцессор Less")-Введение в Less
